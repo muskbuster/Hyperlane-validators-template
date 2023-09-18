@@ -6,8 +6,9 @@
 
 for commands take a look at the guides
 
-- relayers -  https://steadfast-pheasant-8b7.notion.site/Hyperlane-relayers-setup-guide-b784cd444f7645a4a8e225abc0f2310f
-- validators- https://steadfast-pheasant-8b7.notion.site/Hyperlane-validators-setup-guide-ad144acef48f46ddad62081ad78558aa
+- relayers - [relayers setup guide](https://steadfast-pheasant-8b7.notion.site/Hyperlane-relayers-setup-guide-b784cd444f7645a4a8e225abc0f2310f)
+- validators - [validators setup guide](https://steadfast-pheasant-8b7.notion.site/Hyperlane-validators-setup-guide-ad144acef48f46ddad62081ad78558aa)
+
 
 ## Run on gitpod 
 
