@@ -1,0 +1,39 @@
+
+{
+    "chains": {
+    "sepolia": {
+        "name": "sepolia",
+        "domain": 11155111,
+        "addresses": {
+        "mailbox": "0xCC737a94FecaeC165AbCf12dED095BB13F037685",
+        "interchainGasPaymaster": "0x9Ad09E9C3fC8094361bc3CA7500AFEe1aFA26b6C",
+        "validatorAnnounce": "0x3Fc742696D5dc9846e04f7A1823D92cb51695f9a"
+        },
+        "protocol": "ethereum",
+        "finalityBlocks": 1,
+        "connection": {
+        "type": "http"
+        },
+        "index": {
+        "from": 3082913
+        }
+    },
+    "zkevm": {
+        "name": "zkevm",
+        "domain": 1442,
+        "addresses": {
+        "mailbox": "0x2F37bE37c1c8b58d105DFbf6DC30c91e7C805Abf",
+        "interchainGasPaymaster": "0x41A637313655ec7A92D4E06551E73aC767CB053f",
+        "validatorAnnounce": "0x59191A4Df9A5DAEFA53006FcE5065B94febeEdE8"
+        },
+        "protocol": "ethereum",
+        "finalityBlocks": 1,
+        "connection": {
+        "type": "http"
+        },
+        "index": {
+        "from": 624309
+        }
+    }
+  }
+}
