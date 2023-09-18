@@ -11,4 +11,4 @@ for commands take a look at the guides
 
 ## Run on gitpod 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/muskbuster/Hyperlane-validators-template)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/muskbuster/Hyperlane-validators-template)
